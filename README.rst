@@ -1,7 +1,8 @@
 oh-listadmin
 ============
 
-Tools for command-line management and moderation of OpenHatch mailman lists
+Tools for command-line management and moderation of OpenHatch mailman lists, based on `listadmin by Kjetil Torgrim Homme
+<http://heim.ifi.uio.no/kjetilho/hacks/#listadmin>`_.
 
 This is what it looks like:
 
@@ -20,11 +21,11 @@ This lets you run::
 
 and administer OpenHatch email lists via a simple, low-friction command line interface.
 
-You can `see a sample session that demonstrates the tool's features
+You can `see a sample session that demonstrates listadmin's features
 <http://heim.ifi.uio.no/kjetilho/hacks/listadmin-session.html>`_.
 
-You can `read more about the tool via its website
-<http://heim.ifi.uio.no/kjetilho/hacks/#listadmin>`_.
+You can `read more about listadmin via its website
+<http://heim.ifi.uio.no/kjetilho/hacks/#listadmin>`_. (oh-listadmin is a wrapper around listadmin, configuring it for use with OpenHatch lists.)
 
 
 Get these files
