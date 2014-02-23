@@ -66,6 +66,8 @@ and it will create a listadmin.ini file.
 Run the tool
 ============
 
+You can run it like so::
+
   $ ./oh-listadmin
 
 Ta-da!
