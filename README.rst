@@ -20,8 +20,12 @@ This lets you run::
 
 and administer OpenHatch email lists via a simple, low-friction command line interface.
 
+You can `see a sample session that demonstrates the tool's features
+<http://heim.ifi.uio.no/kjetilho/hacks/listadmin-session.html>`_.
+
 You can `read more about the tool via its website
 <http://heim.ifi.uio.no/kjetilho/hacks/#listadmin>`_.
+
 
 Get these files
 ===============
