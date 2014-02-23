@@ -44,6 +44,10 @@ On Debian and Ubuntu systems, you can run::
 
 On other systems, like Mac OS, I am not sure I am not sure. Help is welcome.
 
+To run the Makefile that drives configuration, run::
+
+  $ sudo apt-get install make
+
 One-time password configuration
 ===============================
 
@@ -71,3 +75,10 @@ You can run it like so::
   $ ./oh-listadmin
 
 Ta-da!
+
+Maintenance
+===========
+
+When we want to add new lists to the set of email lists that our lovely list moderators
+moderate, we should edit the *listadmin.ini.template* file, adding the new lists, and then
+ask the list moderators to run "git pull" and then "make".
