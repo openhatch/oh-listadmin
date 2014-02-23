@@ -14,9 +14,9 @@ https://asciinema.org/a/7816
 General background
 ==================
 
-This lets you run:
+This lets you run::
 
-./listadmin
+  ./oh-listadmin
 
 and administer OpenHatch email lists via a simple, low-friction command line interface.
 
